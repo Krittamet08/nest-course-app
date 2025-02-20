@@ -9,4 +9,7 @@ export class AppService {
   getGit(): string {
     return 'Git and GitHub';
   }
+  getPostman(): string {
+    return 'we use postman';
+  }
 }
